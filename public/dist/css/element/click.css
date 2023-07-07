@@ -1,0 +1,11 @@
+.click {
+  transition: 0.7s;
+}
+.click:hover {
+  opacity: 0.7;
+}
+.click:active {
+  opacity: 0.3;
+}
+
+/*# sourceMappingURL=click.css.map */
